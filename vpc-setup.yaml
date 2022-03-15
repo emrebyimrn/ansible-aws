@@ -149,8 +149,8 @@
         - privsub1_out.subnet.id
         - privsub2_out.subnet.id
         - privsub3_out.subnet.id
-        - igw_out_gateway_id
-        - pubRt_out.route_table.id
+        - igw_out.gateway_id
+        - pubRT_out.route_table.id
         - NATGW_out.nat_gateway_id
         - privRT_out.route_table.id
 
