@@ -11,3 +11,4 @@ NATGWid: nat-035908937956441ac
 privRTid: rtb-0ff361bfc15dea679
 
 region: us-east-2
+BastionSGid:
