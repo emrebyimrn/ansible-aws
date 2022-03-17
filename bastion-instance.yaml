@@ -20,7 +20,7 @@
         copy:
           content: "{{key_out.key.private_key}}"
           dest: "./bastion-key.pem"
-          mode: 8688
+          mode: 0600
         when: key_out.changed
 
       - name: Create sec Grp for bastion host
