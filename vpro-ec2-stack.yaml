@@ -1,6 +1,6 @@
 ---
 - name: setup vprofile Stack
-  host: localhost
+  hosts: localhost
   connection: local
   tasks:
     - name: Import VPC Setup Variable
