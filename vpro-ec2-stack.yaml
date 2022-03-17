@@ -63,7 +63,6 @@
         purge_rules: no
         rules:
           - proto: all
-            from_port: 80
             group_id: "{{vproStackSG_out.group_id}}"
 
 
